@@ -182,3 +182,5 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVDramaItaly.it" tvg-chno="904" tvg-logo="https://i.imgur.com/oMXfdkV.png" ,Rakuten TV Shows Italy (720p)
 https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-chno="4000" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Anal (720p)
+http://cdn.adultiptv.net/anal.m3u8
